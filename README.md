@@ -4,6 +4,7 @@
 Note: Installed Ubuntu 22.04 on dual boot instead of using Virtual Box because of personal requirements.
 ![Screenshot from 2024-04-23 15-09-12](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/bc779ff4-9dc0-4b9e-b333-5d4a3af6a8ab)
 # 2. Installation of RISC-V GNU Toolchain
+![carbon(5)](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/790da1e0-b409-4489-8dab-93b3ac9c8928)
 ![Screenshot from 2024-04-23 16-07-14](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/aefb261d-978f-4576-9fb0-cdb8893be0d9)
 # 3. Installing YOSYS
  ![carbon(2)](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/77c3b616-f85c-4ba3-a6c0-5adf80e93dbe)
