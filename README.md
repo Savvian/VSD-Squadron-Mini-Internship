@@ -9,9 +9,9 @@ Note: Installed Ubuntu 22.04 on dual boot instead of using Virtual Box because o
 # 3. Installing YOSYS
  ![carbon(2)](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/77c3b616-f85c-4ba3-a6c0-5adf80e93dbe)
 ![Screenshot from 2024-04-23 15-49-43](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/ebfbbfab-28e4-47dc-8bf0-c4b72f36125b)
-# 4. Installing Inverilog
-![carbon(3)](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/a0870c9b-fd34-488e-9176-836f670c5e3d)
+# 4. Installing Iverilog
+![carbon(8)](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/8e0584ca-6603-4773-979d-7c4c57d8874a)
 ![Screenshot from 2024-04-23 15-52-58](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/81cff073-3d2e-401c-a112-85cf61a44131)
 # 5. Installing GTKWave
-![carbon(4)](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/cd7daaea-0761-4f35-8267-1e0bfb5dda27)
+![carbon(6)](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/af87d26e-59c4-4de4-aac0-0c94769f8375)
 ![Screenshot from 2024-04-23 15-55-11](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/936646c0-74ea-4ab5-9b85-06efe867387e)
