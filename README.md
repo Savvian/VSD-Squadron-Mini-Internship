@@ -1,4 +1,4 @@
-![VSDsquadron-Mini-Internship](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/7c6beb5d-c964-4422-902a-b1adec7336e3)
+[VSDsquadron-Mini-Internship](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/7c6beb5d-c964-4422-902a-b1adec7336e3)
 # LIST OF Alloted Tasks (April 20,2024)
 ## 1. Installation of Linux Operating System through Virtual Box
 - The screenshot shows the successful installation of Ubuntu version 22.04, an operating system commonly used for software development and various other tasks.
@@ -28,18 +28,31 @@
 # Task:2( April 23,2024)
 # RISC-V 32-bit Instruction Set Architecture (ISA)
 ## Instruction Types:
+
+![r type](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/98b9af23-e23c-456f-9a55-eae7f133a871)
+
 #### R (Register-Register Operations):Instructions that operate on data stored in registers.
 -  These instructions work with data stored in registers. It's like doing math with numbers you already have. For example, adding two numbers together or checking if one number is bigger than another.
+
+  ![i](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/1db8c45d-1133-4218-8a36-127fc8f9007c)
+
 #### I (Immediate Operations):Instructions that use an immediate value for computation.
 - These instructions use a number that's included right in the instruction itself. It's handy for doing quick calculations or grabbing data from memory. For instance, adding a number to another number or loading a piece of data into memory.
+  
+ ![ss](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/6965b5d3-80b2-4757-9ba4-c169c66904c8)
 #### S (Store Operations):Instructions that store data from a register to memory.
 - These instructions move data from a register into memory. It's like taking something from your pocket and putting it into a box. For example, saving the result of a calculation into memory.
+  
+![U](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/a2e820ba-a5e0-4f66-953f-3d5881a98142)
 #### U (Upper Immediate Operations):Instructions that use an immediate value for upper bits of a register.
 - These instructions set the high bits of a register to a specific value. It's useful for loading big numbers into registers. Think of it as putting the first part of a big address on an envelope.
+  
 #### B (Branch Operations):Instructions that perform conditional branching based on comparison results.
 - These instructions let the program make decisions and change its direction based on conditions. It's like choosing which path to take at a crossroad. For example, going left if two numbers are equal or going right if they're not.
+  
 #### J (Jump Operations):Instructions that perform unconditional jumping to a specified address.
 - These instructions allow the program to jump to a different part of the code. It's like skipping ahead to a different page in a book. For instance, jumping to a function or looping back to repeat a section of code.
+  
 # Here's a table categorizing each mentioned instruction  into their respective types:
 Sure, here's the table with instructions categorized by their types:
 
