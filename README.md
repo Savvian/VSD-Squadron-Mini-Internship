@@ -60,7 +60,6 @@
 - These instructions allow the program to jump to a different part of the code. It's like skipping ahead to a different page in a book. For instance, jumping to a function or looping back to repeat a section of code.
   
 # Here's a table categorizing each mentioned instruction  into their respective types:
-Sure, here's the table with instructions categorized by their types:
 
 | Type | Instruction | Instruction Encoding |
 |------|-------------|----------------------|
