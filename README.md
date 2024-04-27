@@ -40,15 +40,21 @@
 - These instructions use a number that's included right in the instruction itself. It's handy for doing quick calculations or grabbing data from memory. For instance, adding a number to another number or loading a piece of data into memory.
   
  ![ss](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/6965b5d3-80b2-4757-9ba4-c169c66904c8)
+ 
 #### S (Store Operations):Instructions that store data from a register to memory.
 - These instructions move data from a register into memory. It's like taking something from your pocket and putting it into a box. For example, saving the result of a calculation into memory.
   
 ![U](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/a2e820ba-a5e0-4f66-953f-3d5881a98142)
+
 #### U (Upper Immediate Operations):Instructions that use an immediate value for upper bits of a register.
 - These instructions set the high bits of a register to a specific value. It's useful for loading big numbers into registers. Think of it as putting the first part of a big address on an envelope.
-  
+
+![b](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/a9039abb-1ab2-46bd-b0d1-f31db5b07f9b)  
+
 #### B (Branch Operations):Instructions that perform conditional branching based on comparison results.
 - These instructions let the program make decisions and change its direction based on conditions. It's like choosing which path to take at a crossroad. For example, going left if two numbers are equal or going right if they're not.
+
+![j](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/e254f337-b25f-4393-a103-021a3241ad45)
   
 #### J (Jump Operations):Instructions that perform unconditional jumping to a specified address.
 - These instructions allow the program to jump to a different part of the code. It's like skipping ahead to a different page in a book. For instance, jumping to a function or looping back to repeat a section of code.
