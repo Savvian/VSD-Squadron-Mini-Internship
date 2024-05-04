@@ -87,3 +87,30 @@
 - U (Upper Immediate Operations): LUI
 - B (Branch Operations): BRANCH, BEQ, BNE
 - J (Jump Operations): JAL
+- 
+# Task:3( April 27,2024)
+## Checking out C-lab videos and running a simple c program to print sum of numbers.
+This sample code prints the sum of integer numbers from 1 to n .
+### #include <stdio.h>
+
+### int main() {
+### int i, sum=0, n=1606;
+### for (i=1; i <= n; ++i) {
+### sum += i;
+###	}
+### printf("Sum of numbers from 1 to %d is %d\n", n, sum);
+### return 0;
+### }
+![Screenshot from 2024-05-05 01-45-43](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/37401937-1ef0-4042-bdd7-ba2861f77044)
+
+
+## Checking out RISCV based lab videos and instructing the exact commands as shown to see the contents of main and compare output with object file.
+In this task we tried out two type of instructions and saw the difference between them.
+## First Instruction
+# riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=riscv64i -o sum1ton.o sum1ton.c
+## Second Instruction
+#  riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv641 -o sum1ton.o sum1ton.c
+![2024-05-04 21_35_58-vsdworkshop  Running  - Oracle VM VirtualBox](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/81fca535-50d8-4eaa-8803-9ad780eb64cd)
+![2024-05-04 21_40_34-vsdworkshop  Running  - Oracle VM VirtualBox](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/ceda3f47-22b4-4db3-a4ea-f553cfa0eee0)
+
+
