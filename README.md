@@ -109,8 +109,13 @@ In this task we tried out two type of instructions and saw the difference betwee
 ## First Instruction
 # riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=riscv64i -o sum1ton.o sum1ton.c
 ## Second Instruction
+![Screenshot from 2024-05-05 04-22-41](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/ece6fb58-e15c-4de0-802d-5ae935671f5b)
+
 #  riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv641 -o sum1ton.o sum1ton.c
 ![2024-05-04 21_35_58-vsdworkshop  Running  - Oracle VM VirtualBox](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/81fca535-50d8-4eaa-8803-9ad780eb64cd)
 ![2024-05-04 21_40_34-vsdworkshop  Running  - Oracle VM VirtualBox](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/ceda3f47-22b4-4db3-a4ea-f553cfa0eee0)
-
-
+# Task:4( May 05,2024)
+The task 4 involves debugging the generated c output with the help of spike and pk. 
+## Note: As there were issues in my system i used the virtual system provided by the vsd which had the required tools pre-installed .
+Note:![Screenshot from 2024-05-05 04-24-21](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/d2eb4422-e977-4235-bb83-8691ac803fd4)
+ 
