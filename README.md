@@ -118,4 +118,14 @@ In this task we tried out two type of instructions and saw the difference betwee
 The task 4 involves debugging the generated c output with the help of spike and pk. 
 ## Note: As there were issues in my system i used the virtual system provided by the vsd which had the required tools pre-installed .
 Note:![Screenshot from 2024-05-05 04-24-21](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/d2eb4422-e977-4235-bb83-8691ac803fd4)
- 
+
+# Task:5( May 09,2024 )
+## Task 5 included the 
+### 1. creation of a directory in my own name for performing the assigned labs for this task.  
+### 2. usage of open-source tools like Iverilog and GTKWave to analyze the provided Verilog Code.
+### Both these tools were successfully installed in the Task:1 and here are there snapshots .
+## GTK Waveform Viewer
+![Screenshot from 2024-05-09 17-42-09](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/58d68657-457f-4d49-a8f8-292d48c7a56f)
+## Icarus Verilog
+ ![Screenshot from 2024-05-09 17-43-18](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/518bdcad-1e7c-4774-b72c-94d04bd09395)
+
