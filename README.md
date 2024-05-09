@@ -130,3 +130,24 @@ Note:![Screenshot from 2024-05-05 04-24-21](https://github.com/Savvian/VSD-Squad
  ![Screenshot from 2024-05-09 17-43-18](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/518bdcad-1e7c-4774-b72c-94d04bd09395)
 ## Running the simulations in GTK Waveform Viewer
 ![Screenshot from 2024-05-09 18-34-35](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/7c7fc76d-55d0-446d-8b35-b5defa143d15)
+## Waveforms for various instruction set are shown below with their instructions:-
+
+Instruction (a): ADD R6, R2, R1
+
+Instruction (b): SUB R7, R1, R2
+
+Instruction (c): AND R8, R1, R3
+
+Instruction (d): OR R9, R2, R5
+
+Instruction (e): XOR R10, R1, R4
+
+Instruction (f): SLT R1, R2, R4
+
+Instruction (g): ADDI R12, R4, 5
+
+Instruction (h): BEQ R0, R0, 15
+
+Instruction (i): BNE R0, R1, 20
+
+Instruction 9j): SLL R15, R1, R2
