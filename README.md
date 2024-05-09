@@ -128,4 +128,5 @@ Note:![Screenshot from 2024-05-05 04-24-21](https://github.com/Savvian/VSD-Squad
 ![Screenshot from 2024-05-09 17-42-09](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/58d68657-457f-4d49-a8f8-292d48c7a56f)
 ## Icarus Verilog
  ![Screenshot from 2024-05-09 17-43-18](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/518bdcad-1e7c-4774-b72c-94d04bd09395)
-
+## Running the simulations in GTK Waveform Viewer
+![Screenshot from 2024-05-09 18-34-35](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/7c7fc76d-55d0-446d-8b35-b5defa143d15)
