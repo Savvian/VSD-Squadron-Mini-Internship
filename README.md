@@ -135,6 +135,7 @@ Note:![Screenshot from 2024-05-05 04-24-21](https://github.com/Savvian/VSD-Squad
 Instruction (a): ADD R6, R2, R1
 ![Screenshot from 2024-05-09 18-58-08](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/c9bcc2fc-ead0-4c2a-b32a-7b6205b801cd)
 Instruction (b): SUB R7, R1, R2
+![Screenshot from 2024-05-09 19-02-08](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/3e599299-8eca-40eb-9d08-8903ee5291ed)
 
 Instruction (c): AND R8, R1, R3
 
