@@ -138,6 +138,7 @@ Instruction (b): SUB R7, R1, R2
 ![Screenshot from 2024-05-09 19-02-08](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/3e599299-8eca-40eb-9d08-8903ee5291ed)
 
 Instruction (c): AND R8, R1, R3
+![Screenshot from 2024-05-09 19-04-13](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/907ba9b9-3284-447f-8ee7-933d2b69851e)
 
 Instruction (d): OR R9, R2, R5
 
