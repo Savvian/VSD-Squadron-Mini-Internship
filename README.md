@@ -141,6 +141,7 @@ Instruction (c): AND R8, R1, R3
 ![Screenshot from 2024-05-09 19-04-13](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/907ba9b9-3284-447f-8ee7-933d2b69851e)
 
 Instruction (d): OR R9, R2, R5
+![Screenshot from 2024-05-09 19-05-29](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/7499cc67-3c50-4f91-b0bc-ed6eb69a14df)
 
 Instruction (e): XOR R10, R1, R4
 
