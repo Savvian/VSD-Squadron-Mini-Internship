@@ -1,4 +1,4 @@
-[VSDsquadron-Mini-Internship] (https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/7c6beb5d-c964-4422-902a-b1adec7336e3)
+[VSDsquadron-Mini-Internship]
 # LIST OF Alloted Tasks (April 20,2024)
 ## 1. Installation of Linux Operating System through Virtual Box
 - The screenshot shows the successful installation of Ubuntu version 22.04, an operating system commonly used for software development and various other tasks.
