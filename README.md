@@ -160,3 +160,12 @@ The list of required components are as follows:-
 
 # The hardware set-up is as shown in the below picture
 ![Setup for Led brightness control](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/ac441e1a-b9ed-4519-9353-294aab74b557)
+
+| S.No. | Software             | Description                                        |
+|-------|----------------------|----------------------------------------------------|
+| 1     | MountRiver Studio    | Integrated development environment (IDE)          |
+| 2     | CH32V003 Processor  | Microcontroller used for development               |
+| 3     | RISC-V Architecture | Instruction set architecture used by the processor |
+
+#  The development environment for the same is showing using the MounRiver Studio.
+![IDE Setup](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/2c54c91b-b8cc-4607-8bec-fc8fde98faa1)
