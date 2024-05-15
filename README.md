@@ -143,13 +143,6 @@ Instruction (c): AND R8, R1, R3
 Instruction (d): OR R9, R2, R5
 ![Screenshot from 2024-05-09 19-05-29](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/7499cc67-3c50-4f91-b0bc-ed6eb69a14df)
 
-Instruction (e): XOR R10, R1, R4
-
-Instruction (f): SLT R1, R2, R4
-
-Instruction (g): ADDI R12, R4, 5
-
-Instruction (h): BEQ R0, R0, 15
 
 Instruction (i): BNE R0, R1, 20
 
