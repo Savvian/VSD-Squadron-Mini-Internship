@@ -250,11 +250,14 @@ int main(void)
     return 0;
 }
 ``` 
-# Usage
-Connect the LEDs to GPIO pins on your microcontroller board.
-Ensure proper current-limiting resistors are used for each LED.
-Adjust the duty cycle values in the brightness[] array for desired brightness levels.
-Compile and upload the code to your microcontroller board.
-Observe the LEDs to see the varying brightness levels controlled by PWM.
+### Usage
+
+- Connect the LEDs to GPIO pins on your microcontroller board.
+- Ensure proper current-limiting resistors are used for each LED.
+- Adjust the duty cycle values in the `brightness[]` array for desired brightness levels.
+- Compile and upload the code to your microcontroller board.
+- Observe the LEDs to see the varying brightness levels controlled by PWM.
+
 
 # PROJECT VIDEO
+https://drive.google.com/file/d/1YVlBY_HsWliYrcKnLaLPlOkGt1DI3ffa/view?usp=drivesdk
