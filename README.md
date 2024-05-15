@@ -167,5 +167,94 @@ The list of required components are as follows:-
 | 2     | CH32V003 Processor  | Microcontroller used for development               |
 | 3     | RISC-V Architecture | Instruction set architecture used by the processor |
 
-#  The development environment for the same is showing using the MounRiver Studio.
+#  The development environment for the same is shown using the MounRiver Studio.
 ![IDE Setup](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/2c54c91b-b8cc-4607-8bec-fc8fde98faa1)
+
+## LED Brightness Control Program
+
+### Description
+
+This program demonstrates controlling the brightness of LEDs using PWM (Pulse Width Modulation). It initializes GPIO pins for LED control and sets the brightness levels of each LED using PWM. Each instruction is commented for better understanding of the working of the code .
+
+
+### Code
+
+```c
+#include "debug.h"
+
+#define LED_COUNT 5
+
+// Define the GPIO pins connected to each LED
+#define LED1_PIN GPIO_Pin_0  // Brightest LED
+#define LED2_PIN GPIO_Pin_1
+#define LED3_PIN GPIO_Pin_2
+#define LED4_PIN GPIO_Pin_3
+#define LED5_PIN GPIO_Pin_4  // Least bright LED
+
+// Initialize GPIO pins for LED control
+void LED_Init(void)
+{
+    GPIO_InitTypeDef GPIO_InitStructure;
+
+    // Enable GPIO clock
+    RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOA, ENABLE);
+
+    // Configure GPIO pins for LEDs as output
+    GPIO_InitStructure.GPIO_Pin = LED1_PIN | LED2_PIN | LED3_PIN | LED4_PIN | LED5_PIN;
+    GPIO_InitStructure.GPIO_Mode = GPIO_Mode_Out_PP;
+    GPIO_InitStructure.GPIO_Speed = GPIO_Speed_50MHz;
+    GPIO_Init(GPIOA, &GPIO_InitStructure);
+}
+
+// Control the brightness of LEDs using PWM
+void LED_Brightness_Control(void)
+{
+    uint16_t brightness[] = {100, 60, 30, 15, 5}; // Duty cycles for each LED
+
+    // Infinite loop for controlling brightness
+    while (1)
+    {
+        // Set the brightness for each LED
+        GPIO_WriteBit(GPIOA, LED1_PIN, (brightness[0] > 0) ? Bit_SET : Bit_RESET);
+        GPIO_WriteBit(GPIOA, LED2_PIN, (brightness[1] > 0) ? Bit_SET : Bit_RESET);
+        GPIO_WriteBit(GPIOA, LED3_PIN, (brightness[2] > 0) ? Bit_SET : Bit_RESET);
+        GPIO_WriteBit(GPIOA, LED4_PIN, (brightness[3] > 0) ? Bit_SET : Bit_RESET);
+        GPIO_WriteBit(GPIOA, LED5_PIN, (brightness[4] > 0) ? Bit_SET : Bit_RESET);
+
+        // Delay to control the brightness level
+        Delay_Ms(50);
+
+        // Decrease the brightness for next iteration
+        for (int i = 0; i < LED_COUNT; i++)
+        {
+            if (brightness[i] > 0)
+            {
+                brightness[i]--; // Decrease brightness
+            }
+        }
+    }
+}
+
+int main(void)
+{
+    NVIC_PriorityGroupConfig(NVIC_PriorityGroup_1);
+    SystemCoreClockUpdate();
+    Delay_Init();
+
+    // Initialize GPIO pins for LED control
+    LED_Init();
+
+    // Control the brightness of LEDs
+    LED_Brightness_Control();
+
+    return 0;
+}
+``` 
+# Usage
+Connect the LEDs to GPIO pins on your microcontroller board.
+Ensure proper current-limiting resistors are used for each LED.
+Adjust the duty cycle values in the brightness[] array for desired brightness levels.
+Compile and upload the code to your microcontroller board.
+Observe the LEDs to see the varying brightness levels controlled by PWM.
+
+# PROJECT VIDEO
