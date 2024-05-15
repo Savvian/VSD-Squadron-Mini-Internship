@@ -161,9 +161,29 @@ The list of required components are as follows:-
 # The hardware set-up is as shown in the below picture
 ![Setup for Led brightness control](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/ac441e1a-b9ed-4519-9353-294aab74b557)
 
+# Connection Diagram
+![Screenshot 2024-05-15 140159](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/e7f83f67-51c2-4142-91be-5ee9dc007844)
+
+## Connection Table
+
+| Microcontroller Pin | LED Color | LED Anode Connection                               |
+|---------------------|-----------|----------------------------------------------------|
+| GND                 | N/A       | GND of all LEDs                                    |
+| PC0                 | White     | Anode of White LED (Connected to PC0)              |
+| PC1                 | Green     | Anode of Green LED (Connected to PC1)              |
+| PC2                 | Blue      | Anode of Blue LED (Connected to PC2)               |
+| PC3                 | Yellow    | Anode of Yellow LED (Connected to PC3)             |
+| PC4                 | Orange    | Anode of Orange LED (Connected to PC4)             |
+
+- Microcontroller Pin: Refers to the specific GPIO pin on your microcontroller board.
+- LED Color: Indicates the color of the LED.
+- LED Anode Connection: Specifies which GPIO pin is connected to the anode (positive) terminal of each LED.
+
+
+
 | S.No. | Software             | Description                                        |
 |-------|----------------------|----------------------------------------------------|
-| 1     | MountRiver Studio    | Integrated development environment (IDE)          |
+| 1     | Moun River Studio    | Integrated development environment (IDE)          |
 | 2     | CH32V003 Processor  | Microcontroller used for development               |
 | 3     | RISC-V Architecture | Instruction set architecture used by the processor |
 
@@ -261,4 +281,4 @@ int main(void)
 
 # PROJECT VIDEO
 ![Screenshot 2024-05-15 132628](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/6a3c44fe-da79-4d71-a0ac-c8bc1706bc8e)
-https://drive.google.com/file/d/1UpYqxCTf_DmiKBpGxvNaY9m9Xjc6WF0r/view?usp=drive_link
+LINK:https://drive.google.com/file/d/1UpYqxCTf_DmiKBpGxvNaY9m9Xjc6WF0r/view?usp=drive_link
