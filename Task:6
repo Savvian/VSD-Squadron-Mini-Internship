@@ -1,3 +1,4 @@
+//Program for showing LEDs with different brightness
 #include "debug.h"
 #define LED_COUNT 5
 
