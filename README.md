@@ -1,4 +1,4 @@
-[VSDsquadron-Mini-Internship](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/7c6beb5d-c964-4422-902a-b1adec7336e3)
+[VSDsquadron-Mini-Internship] (https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/7c6beb5d-c964-4422-902a-b1adec7336e3)
 # LIST OF Alloted Tasks (April 20,2024)
 ## 1. Installation of Linux Operating System through Virtual Box
 - The screenshot shows the successful installation of Ubuntu version 22.04, an operating system commonly used for software development and various other tasks.
@@ -143,7 +143,3 @@ Instruction (c): AND R8, R1, R3
 Instruction (d): OR R9, R2, R5
 ![Screenshot from 2024-05-09 19-05-29](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/7499cc67-3c50-4f91-b0bc-ed6eb69a14df)
 
-
-Instruction (i): BNE R0, R1, 20
-
-Instruction 9j): SLL R15, R1, R2
