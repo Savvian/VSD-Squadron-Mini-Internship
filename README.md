@@ -142,4 +142,19 @@ Instruction (c): AND R8, R1, R3
 
 Instruction (d): OR R9, R2, R5
 ![Screenshot from 2024-05-09 19-05-29](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/7499cc67-3c50-4f91-b0bc-ed6eb69a14df)
+# Task:6(May 15,2024)
+This task involved applying the knowledge and things that we got to know in above performed tasks. 
+So, i tried to implement the LEDs brightness control using the VSD Squadron Mini.
+The list of required components are as follows:-
+| S.No. | Component                           | Quantity |
+|-------|------------------------------------|----------|
+| 1     | VSD Squadron Mini Quat 1           | 1        |
+| 2     | Mini Breadboard                    | 1        |
+| 3     | Connecting Wires                   | As needed|
+| 4     | White 5mm LED                      | 1        |
+| 5     | Blue 5mm LED                       | 1        |
+| 6     | Green 5mm LED                      | 1        |
+| 7     | Yellow 5mm LED                     | 1        |
+| 8     | Orange 5mm LED                     | 1        |
+| 9     | 330 Ohm Resistor                   | 5        |
 
