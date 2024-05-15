@@ -148,7 +148,7 @@ So, i tried to implement the LEDs brightness control using the VSD Squadron Mini
 The list of required components are as follows:-
 | S.No. | Component                           | Quantity |
 |-------|------------------------------------|----------|
-| 1     | VSD Squadron Mini Quat 1           | 1        |
+| 1     | VSD Squadron Mini                  | 1        |
 | 2     | Mini Breadboard                    | 1        |
 | 3     | Connecting Wires                   | As needed|
 | 4     | White 5mm LED                      | 1        |
@@ -158,3 +158,5 @@ The list of required components are as follows:-
 | 8     | Orange 5mm LED                     | 1        |
 | 9     | 330 Ohm Resistor                   | 5        |
 
+# The hardware set-up is as shown in the below picture
+![Setup for Led brightness control](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/ac441e1a-b9ed-4519-9353-294aab74b557)
