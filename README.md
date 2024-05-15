@@ -249,9 +249,9 @@ int main(void)
 
     return 0;
 }
-``` 
-### Usage
+```
 
+### Usage
 - Connect the LEDs to GPIO pins on your microcontroller board.
 - Ensure proper current-limiting resistors are used for each LED.
 - Adjust the duty cycle values in the `brightness[]` array for desired brightness levels.
@@ -260,4 +260,5 @@ int main(void)
 
 
 # PROJECT VIDEO
-https://drive.google.com/file/d/1YVlBY_HsWliYrcKnLaLPlOkGt1DI3ffa/view?usp=drivesdk
+![Screenshot 2024-05-15 132628](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/6a3c44fe-da79-4d71-a0ac-c8bc1706bc8e)
+https://drive.google.com/file/d/1UpYqxCTf_DmiKBpGxvNaY9m9Xjc6WF0r/view?usp=drive_link
