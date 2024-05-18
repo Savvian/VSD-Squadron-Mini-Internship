@@ -281,4 +281,4 @@ int main(void)
 
 # PROJECT VIDEO
 ![Screenshot 2024-05-15 132628](https://github.com/Savvian/VSD-Squadron-Mini-Internship/assets/90250807/6a3c44fe-da79-4d71-a0ac-c8bc1706bc8e)
-LINK:https://drive.google.com/file/d/1UpYqxCTf_DmiKBpGxvNaY9m9Xjc6WF0r/view?usp=drive_link
+LINK:https://drive.google.com/file/d/1dFteEPm1tSqqPYzWlDGTENIlAHp3UMio/view?usp=drivesdk
